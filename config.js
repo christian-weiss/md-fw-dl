@@ -71,8 +71,8 @@ sites:{
   "domaene61" : {id: "domaene61",short:"d61",name:"Südlohn", version:"2.1.0", version_base:"2016.2.1", on_map: true},
   "domaene62" : {id: "domaene62",short:"d62",name:"Velen", version:"2.1.0", version_base:"2016.2.1", on_map: true},
   "domaene63" : {id: "domaene63",short:"d63",name:"Vreden", version:"2.1.0", version_base:"2016.2.1", on_map: true},
-//  "domaene62" : {id: "domaene64",short:"d64",name:"Gronau", version:"2.1.0", version_base:"2016.2.1", on_map: true},
-//  "domaene63" : {id: "domaene65",short:"d65",name:"Ramsch", version:"2.1.0", version_base:"2016.2.1", on_map: true},
+//  "domaene64" : {id: "domaene64",short:"d64",name:"Gronau", version:"2.1.0", version_base:"2016.2.1", on_map: true},
+//  "domaene65" : {id: "domaene65",short:"d65",name:"Ramsch", version:"2.1.0", version_base:"2016.2.1", on_map: true},
 },
 
 //router list for gluon v2015.1
@@ -191,6 +191,7 @@ routers: {
  "tp-link-tl-wr841n-nd-v9": { id: "tp-link-tl-wr841n-nd-v9", name: "TL-WR841N/ND Ver:9", manufacturer: "TP-Link" },
  "tp-link-tl-wr841n-nd-v10": { id: "tp-link-tl-wr841n-nd-v10", name: "TL-WR841N/ND Ver:10", manufacturer: "TP-Link" },
  "tp-link-tl-wr841n-nd-v11": { id: "tp-link-tl-wr841n-nd-v11", name: "TL-WR841N/ND Ver:11", manufacturer: "TP-Link" },
+ "tp-link-tl-wr841n-nd-v12": { id: "tp-link-tl-wr841n-nd-v12", name: "TL-WR841N/ND Ver:12", manufacturer: "TP-Link" },
  "tp-link-tl-wr842n-nd-v1": { id: "tp-link-tl-wr842n-nd-v1", name: "TL-WR842N/ND Ver:1", manufacturer: "TP-Link" },
  "tp-link-tl-wr842n-nd-v2": { id: "tp-link-tl-wr842n-nd-v2", name: "TL-WR842N/ND Ver:2", manufacturer: "TP-Link" },
  "tp-link-tl-wr842n-nd-v3": { id: "tp-link-tl-wr842n-nd-v3", name: "TL-WR842N/ND Ver:3", manufacturer: "TP-Link" },
@@ -207,6 +208,7 @@ routers: {
  "tp-link-tl-wr1043n-nd-v1": { id: "tp-link-tl-wr1043n-nd-v1", name: "TL-WR1043N/ND Ver:1", manufacturer: "TP-Link" },
  "tp-link-tl-wr1043n-nd-v2": { id: "tp-link-tl-wr1043n-nd-v2", name: "TL-WR1043N/ND Ver:2", manufacturer: "TP-Link" },
  "tp-link-tl-wr1043n-nd-v3": { id: "tp-link-tl-wr1043n-nd-v3", name: "TL-WR1043N-ND Ver:3", manufacturer: "TP-Link" },
+ "tp-link-tl-wr1043n-nd-v4": { id: "tp-link-tl-wr1043n-nd-v4", name: "TL-WR1043N-ND Ver:4", manufacturer: "TP-Link" },
  "tp-link-tl-wr2543n-nd-v1": { id: "tp-link-tl-wr2543n-nd-v1", name: "TL-WR2543N/ND Ver:1", manufacturer: "TP-Link" },
  "ubiquiti-bullet-m":        { id: "ubiquiti-bullet-m", name: "Bullet M", manufacturer: "Ubiquiti" },
  "ubiquiti-loco-m-xw":      { id: "ubiquiti-loco-m-xw", name: "Loco M XW", manufacturer: "Ubiquiti" },
