@@ -216,7 +216,7 @@ routers: {
  "ubiquiti-rocket-m":{id:"ubiquiti-rocket-m",name:"Rocket M",manufacturer:"Ubiquiti"},
  "ubiquiti-nanostation-m-xw": { id: "ubiquiti-nanostation-m-xw", name: "Nanostation M XW", manufacturer: "Ubiquiti" },
  "ubiquiti-nanostation-m": { id: "ubiquiti-nanostation-m", name: "Nanostation M", manufacturer: "Ubiquiti" },
- "ubiquiti-picostation-m":{id:"ubiquiti-picostation-m",name:"Picostation M",manufacturer:"Ubiquiti"},
+ "ubiquiti-picostation-m2":{id:"ubiquiti-picostation-m2",name:"Picostation M2HP",manufacturer:"Ubiquiti"},
  "ubiquiti-unifi": { id: "ubiquiti-unifi", name: "UniFi", manufacturer: "Ubiquiti" },
  "ubiquiti-unifi-ap-ac-lite": { id: "ubiquiti-unifi-ap-ac-lite", name: "UniFi AP AC Lite", manufacturer: "Ubiquiti" },
  "ubiquiti-unifi-ap-ac-pro": { id: "ubiquiti-unifi-ap-ac-pro", name: "UniFi AP AC Pro", manufacturer: "Ubiquiti" },
