@@ -213,7 +213,7 @@ routers: {
  "ubiquiti-bullet-m":        { id: "ubiquiti-bullet-m", name: "Bullet M", manufacturer: "Ubiquiti" },
  "ubiquiti-loco-m-xw":      { id: "ubiquiti-loco-m-xw", name: "Loco M XW", manufacturer: "Ubiquiti" },
  "ubiquiti-rocket-m-xw":{id:"ubiquiti-rocket-m-xw",name:"Rocket M XW",manufacturer:"Ubiquiti"}, 
- "ubiquiti-rocket-m":{id:"ubiquiti-rocket-m",name:"Rocket M",manufacturer:"Ubiquiti"},
+ "ubiquiti-rocket-m2":{id:"ubiquiti-rocket-m2",name:"Rocket M2",manufacturer:"Ubiquiti"},
  "ubiquiti-nanostation-m-xw": { id: "ubiquiti-nanostation-m-xw", name: "Nanostation M XW", manufacturer: "Ubiquiti" },
  "ubiquiti-nanostation-m": { id: "ubiquiti-nanostation-m", name: "Nanostation M", manufacturer: "Ubiquiti" },
  "ubiquiti-picostation-m2":{id:"ubiquiti-picostation-m2",name:"Picostation M2HP",manufacturer:"Ubiquiti"},
