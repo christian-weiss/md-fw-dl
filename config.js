@@ -1,6 +1,6 @@
 var config = {
 
-version: "2016.2.1",
+version: "2016.2.6",
 
 modes: {
   "factory": "Erstinstallation (Neu gekaufter Router)",
