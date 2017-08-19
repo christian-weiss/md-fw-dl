@@ -40,7 +40,7 @@ sites:{
   "domaene23" : {id: "domaene23",short:"d23",name:"Metelen", version:"2.6.1", version_base:"2016.2.6", on_map: true },
   "domaene24" : {id: "domaene24",short:"d24",name:"Wettringen", version:"2.6.1", version_base:"2016.2.6", on_map: true },
   "domaene25" : {id: "domaene25",short:"d25",name:"Steinfurt-Ost", version:"2.6.1", version_base:"2016.2.6", on_map: true },
-  "domaene26" : {id: "domaene26",short:"d26",name:"Borken", version:"2.6.1", version_base:"2016.2.6", on_map: true },
+  "domaene26" : {id: "domaene26",short:"d26",name:"Borken", version:"2.7.0", version_base:"2016.2.7", on_map: true },
   "domaene27" : {id: "domaene27",short:"d27",name:"Selm", version:"2.6.1", version_base:"2016.2.6", on_map: true },
   "domaene28" : {id: "domaene28",short:"d28",name:"Horstmar", version:"2.6.1", version_base:"2016.2.6", on_map: true},
   "domaene29" : {id: "domaene29",short:"d29",name:"Laer", version:"2.6.1", version_base:"2016.2.6", on_map: true},
