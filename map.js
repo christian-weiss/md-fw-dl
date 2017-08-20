@@ -25,7 +25,7 @@ mapTools.getStyle = function(dom){
         opacity: 1,
         color: 'white',
         dashArray: '3',
-        fillOpacity: 0.7
+        fillOpacity: 0.5
     };
 };
 
@@ -36,7 +36,7 @@ mapTools.getStyleClicked = function(dom){
         opacity: 1,
         color: '#333',
         dashArray: '0',
-        fillOpacity: 0.85
+        fillOpacity: 0.75
     };
 };
 

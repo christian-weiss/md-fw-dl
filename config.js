@@ -18,9 +18,9 @@ sites:{
   // "domaene65" : {id: "domaene65",short:"d65",name:"Ramsch", version:"2.1.0", version_base:"2016.2.1", on_map: true},
   
   "domaene01" : {id: "domaene01",short:"d01",name:"Münster Mitte-Süd", version:"2.7.0", version_base:"2016.2.7", on_map: true },
-  "domaene02" : {id: "domaene02",short:"d02",name:"Münster West", version:"2.7.0", version_base:"2016.2.7", on_map: true },
+  "domaene02" : {id: "domaene02",short:"d02",name:"Münster Ost", version:"2.7.0", version_base:"2016.2.7", on_map: true },
   "domaene03" : {id: "domaene03",short:"d03",name:"Münster Nord", version:"2.7.0", version_base:"2016.2.7", on_map: true },
-  "domaene04" : {id: "domaene04",short:"d04",name:"Münster Ost", version:"2.7.0", version_base:"2016.2.7", on_map: true },
+  "domaene04" : {id: "domaene04",short:"d04",name:"Münster West", version:"2.7.0", version_base:"2016.2.7", on_map: true },
   "domaene05" : {id: "domaene05",short:"d05",name:"Münster Süd", version:"2.7.0", version_base:"2016.2.7", on_map: true },
   "domaene07" : {id: "domaene07",short:"d07",name:"Telgte", version:"2.6.1", version_base:"2016.2.6", on_map: true },
   "domaene08" : {id: "domaene08",short:"d08",name:"Gescher", version:"2.6.1", version_base:"2016.2.6", on_map: true },
