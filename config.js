@@ -78,6 +78,15 @@ sites:{
   "domaene61" : {id: "domaene61",short:"d61",name:"Südlohn", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene62" : {id: "domaene62",short:"d62",name:"Velen", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene63" : {id: "domaene63",short:"d63",name:"Vreden", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene66" : {id: "domaene66",short:"d66",name:"Bottrop", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene67" : {id: "domaene67",short:"d67",name:"Dorsten", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene68" : {id: "domaene68",short:"d68",name:"Gelsenkirchen", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene69" : {id: "domaene69",short:"d69",name:"Gladbeck", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene70" : {id: "domaene70",short:"d70",name:"Haltern am See", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene71" : {id: "domaene71",short:"d71",name:"Herten", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene72" : {id: "domaene72",short:"d72",name:"Marl", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene73" : {id: "domaene73",short:"d73",name:"Raesfeld", version:"2.7.5", version_base:"2016.2.7", on_map: true},
+  "domaene74" : {id: "domaene74",short:"d74",name:"Recklinghausen", version:"2.7.5", version_base:"2016.2.7", on_map: true},
 },
 
 //router list for gluon v2015.1
