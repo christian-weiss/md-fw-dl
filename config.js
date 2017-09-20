@@ -79,7 +79,7 @@ sites:{
   "domaene61" : {id: "domaene61",short:"d61",name:"Südlohn", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene62" : {id: "domaene62",short:"d62",name:"Velen", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene63" : {id: "domaene63",short:"d63",name:"Vreden", version:"2.7.5", version_base:"2016.2.7", on_map: true},
-  "domaene64" : {id: "domaene64",short:"d64",name:"Borken Süd", version:"2.7.5", version_base:"2016.2.7", on_map: true, proxy_to: "domaene64" },
+  "domaene64" : {id: "domaene64",short:"d64",name:"Borken Süd", version:"2.7.5", version_base:"2016.2.7", on_map: true, proxy_to: "domaene26" },
   "domaene66" : {id: "domaene66",short:"d66",name:"Bottrop", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene67" : {id: "domaene67",short:"d67",name:"Dorsten", version:"2.7.5", version_base:"2016.2.7", on_map: true},
   "domaene68" : {id: "domaene68",short:"d68",name:"Gelsenkirchen", version:"2.7.5", version_base:"2016.2.7", on_map: true},
