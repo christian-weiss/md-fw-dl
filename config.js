@@ -245,8 +245,8 @@ routers: {
  "ubiquiti-nanostation-m": { id: "ubiquiti-nanostation-m", name: "Nanostation M", manufacturer: "Ubiquiti" },
  "ubiquiti-picostation-m2":{id:"ubiquiti-picostation-m2",name:"Picostation M2HP",manufacturer:"Ubiquiti"},
  "ubiquiti-unifi": { id: "ubiquiti-unifi", name: "UniFi", manufacturer: "Ubiquiti" },
- "ubiquiti-unifi-ap-ac-lite": { id: "ubiquiti-unifi-ap-ac-lite", name: "UniFi AP AC Lite", manufacturer: "Ubiquiti" },
- "ubiquiti-unifi-ap-ac-pro": { id: "ubiquiti-unifi-ap-ac-pro", name: "UniFi AP AC Pro", manufacturer: "Ubiquiti" },
+ "ubiquiti-unifi-ac-lite": { id: "ubiquiti-unifi-ac-lite", name: "UniFi AP AC Lite", manufacturer: "Ubiquiti", sysupgrade_only: "true" },
+ "ubiquiti-unifi-ac-pro": { id: "ubiquiti-unifi-ac-pro", name: "UniFi AP AC Pro", manufacturer: "Ubiquiti", sysupgrade_only: "true" },
  "ubiquiti-unifi-ap-pro": { id: "ubiquiti-unifi-ap-pro", name: "UniFi AP Pro", manufacturer: "Ubiquiti" },
  "ubiquiti-unifiap-outdoor": { id: "ubiquiti-unifiap-outdoor", name: "UniFi AP Outdoor", manufacturer: "Ubiquiti" },
  "ubiquiti-unifiap-outdoor+": { id: "ubiquiti-unifiap-outdoor+", name: "Outdoor+", manufacturer: "Ubiquiti" },
@@ -266,5 +266,5 @@ name: "Münsterland",
 
 
 url: "http://firmware.freifunk-muensterland.de/{{parse(downloadableSite).id}}/versions/v{{parse(downloadableSite).version}}/{{selectedMode}}/gluon-ffms{{parse(downloadableSite).short}}-v" +
-"{{parse(downloadableSite).version_base}}+{{parse(downloadableSite).version}}-{{parse(selectedRouter).id}}{{selectedMode=='sysupgrade'?'-sysupgrade':''}}"
+"{{parse(downloadableSite).version_base}}+{{parse(downloadableSite).version}}-{{parse(selectedRouter).id}}{{selectedMode=='sysupgrade'||parse(downloadableSite).sysupgrade_only=='true'?'-sysupgrade':''}}"
 }
