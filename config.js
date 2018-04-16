@@ -265,6 +265,6 @@ routers: {
 name: "Münsterland",
 
 
-url: "http://firmware.freifunk-muensterland.de/{{parse(downloadableSite).id}}/versions/v{{parse(downloadableSite).version}}/{{selectedMode}}/gluon-ffms{{parse(downloadableSite).short}}-v" +
-"{{parse(downloadableSite).version_base}}+{{parse(downloadableSite).version}}-{{parse(selectedRouter).id}}{{selectedMode=='sysupgrade'||parse(downloadableSite).sysupgrade_only=='true'?'-sysupgrade':''}}"
+url: "http://firmware.freifunk-muensterland.de/{{parse(downloadableSite).id}}/versions/v{{parse(downloadableSite).version}}/{{parse(selectedRouter).sysupgrade_only=='true'?'sysupgrade':selectedMode}}/gluon-ffms{{parse(downloadableSite).short}}-v" +
+"{{parse(downloadableSite).version_base}}+{{parse(downloadableSite).version}}-{{parse(selectedRouter).id}}{{selectedMode=='sysupgrade'||parse(selectedRouter).sysupgrade_only=='true'?'-sysupgrade':''}}"
 }
