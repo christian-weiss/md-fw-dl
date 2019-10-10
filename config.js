@@ -94,7 +94,6 @@ manufacturers: {
   "3allnet": {id: "allnet", name: "Allnet"},
   "3buffalo": {id: "buffalo", name: "Buffalo"},
   "4d-link": {id: "d-link", name: "D-Link"},
-  "5gl-inet": {id: "gl-inet", name: "GL-Inet"},
   "5gl-inet": {id: "gl", name: "GL Innovations"},
   "6linksys": {id: "linksys", name: "Linksys"},
   "7netgear": {id: "netgear", name: "Netgear"},
@@ -104,7 +103,6 @@ manufacturers: {
   "10nexx": {id: "nexx", name: "Nexx"},
   "11openmesh": {id: "openmesh", name: "OpenMesh"},
   "12onion": {id: "onion", name: "Onion"},
-  "13wd-ny-net": {id: "wd-ny-net", name: "WD My Net"},
   "13wd-ny-net": {id: "raspberrypi", name: "Raspberry Pi"},
   "14x86":{id:"x86",name:"x86"}
 },
