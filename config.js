@@ -316,4 +316,4 @@ name: "Münsterland",
 
 url: "http://firmware.freifunk-muensterland.de/{{parse(downloadableSite).id}}/versions/v{{parse(downloadableSite).version}}/{{selectedMode=='sysupgrade'||parse(selectedRouter).sysupgrade_only=='true'?'sysupgrade':''}}{{parse(selectedRouter).bootloader=='true'&&selectedMode=='factory'?'other':''}}{{parse(selectedRouter).sysupgrade_only!='true'&&parse(selectedRouter).bootloader!='true'&&selectedMode=='factory'?'factory':''}}/gluon-ffms{{parse(downloadableSite).short}}-v" +
 "{{parse(downloadableSite).version_base}}+{{parse(downloadableSite).version}}-{{parse(selectedRouter).id}}{{selectedMode=='sysupgrade'||parse(selectedRouter).sysupgrade_only=='true'?'-sysupgrade':''}}{{parse(selectedRouter).bootloader=='true'&&selectedMode=='factory'?'-bootloader':''}}"
-}
+};
