@@ -82,6 +82,7 @@ sites:{
   "domaene74" : {id: "domaene74",short:"d74",name:"Recklinghausen", version:"4.1.0", version_base:"2018.2.2", on_map: true},
   "domaene75" : {id: "domaene75",short:"d75",name:"Gronau", version:"4.1.0", version_base:"2018.2.2", on_map: true},
   "domaene76" : {id: "domaene76",short:"d76",name:"Herne", version:"4.1.0", version_base:"2018.2.2", on_map: true},
+  "domaene77" : {id: "domaene77",short:"d77",name:"Hamm", version:"4.1.0", version_base:"2018.2.2", on_map: true},
 },
 
 //router list for gluon v2018.2
